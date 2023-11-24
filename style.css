@@ -25,3 +25,8 @@ body {
     margin: 50px;
     padding: 16px;
 }
+
+.titulo-principal{
+    background-image: linear-gradient(#ff930f, #fff95b);
+    color: aliceblue;
+}
