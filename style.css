@@ -15,6 +15,16 @@ body {
     color: black;
 }
 
+
+.cabecalho-logo{
+    width: 32px;
+    height: 32px;
+}
+.cabecalho-titulo{
+    color:black;
+    padding-left: 16px;
+
+}
 #titulo {
     font-size: 32px;
     text-align: center;
